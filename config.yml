@@ -1,14 +1,14 @@
 # The name of the application (no spaces)
-app_name: stringed_instruments
+app_name: shale_pyrite_BGS
 
 # A brief description of the app.
 description : Find all the proper nouns which have adjectives modifying them. Dump the nouns and the adjectives into a text file.
 
 # Your first and last name
-user: Example User
+user: Joe Emmings
 
 # Your email
-email: example.user@geodeepdive.org
+email: josmin65@bgs.ac.uk
 
 # The primary language the application is written in - will be used for installing dependencies
 # Current options are Python, R, and Go
@@ -17,6 +17,6 @@ language: Python
 # You can choose to specify a list of dictionaries, a list of terms, or both.
 # If both dictionaries and terms are provided, all terms in the dictionary PLUS
 # all listed terms will be used
-dictionaries: [instruments]
+dictionaries: None
 
-terms: [theremin]
+terms: [pyrite nodule, pyrite nodules, pyrite concretion, pyrite concretions, pyritic nodule, pyritic nodules, pyritic concretion, pyritic concretions, nodular pyrite, nodules of pyrite, concretionary pyrite, concretions of pyrite, pyrite framboid, pyrite framboids, framboidal pyrite, organic sulphur, organic sulfur, sulphurized, sulfurized, lenticular mudstone, lenticular mudstones, lenticular mud, lenticular muds, microbial mat, microbial mats, chemosynthetic mat, chemosynthetic mats, benthic mat, benthic mats, stromatolite, stromatolitic, thrombolite, thrombolitic]
